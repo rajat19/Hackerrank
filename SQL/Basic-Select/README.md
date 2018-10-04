@@ -17,4 +17,4 @@ Revising the Select Query II|[Problem](https://www.hackerrank.com/challenges/rev
 Revising the Select Query I|[Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Solution](/revising-the-select-query.sql)
 Select By ID|[Problem](https://www.hackerrank.com/challenges/select-by-id/problem)|[Solution](/select-by-id.sql)
 Select All|[Problem](https://www.hackerrank.com/challenges/select-all-sql/problem)|[Solution](/select-all-sql.sql)
-Higher than 75 marks|[Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[Solution](/higher_than_75marks.sql)
+Higher than 75 marks|[Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[Solution](/higher-than-75marks.sql)
