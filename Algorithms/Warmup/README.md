@@ -19,4 +19,4 @@ A Very Big Sum|[Problem](https://www.hackerrank.com/challenges/a-very-big-sum/pr
 Simple Array Sum|[Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[Solution](/simple-array-sum.java)
 Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution](/solve-me-first.cpp)
 Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution](/solve-me-first.php)
-Virtual Functions|[Problem](https://www.hackerrank.com/challenges/virtual-functions/problem)|[Solution](/Virtual Functions.cpp)A
+Virtual Functions|[Problem](https://www.hackerrank.com/challenges/virtual-functions/problem)|[Solution](/Virtual Functions.cpp)
