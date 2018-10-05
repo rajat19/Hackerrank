@@ -2,4 +2,4 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
-Polar Coordinates|[Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[Solution](/polar-coordinates.py)
+Polar Coordinates|[Problem](https://www.hackerrank.com/challenges/polar-coordinates/problem)|[Solution](./polar-coordinates.py)

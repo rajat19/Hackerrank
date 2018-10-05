@@ -2,4 +2,4 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
-Day 0: Mean, Median, and Mode|[Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|[Solution](/s10-basic-statistics.php)
+Day 0: Mean, Median, and Mode|[Problem](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|[Solution](./s10-basic-statistics.php)

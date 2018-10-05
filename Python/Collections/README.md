@@ -2,4 +2,4 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
-collections.Counter()|[Problem](https://www.hackerrank.com/challenges/collections-counter/problem)|[Solution](/collections-counter.py)
+collections.Counter()|[Problem](https://www.hackerrank.com/challenges/collections-counter/problem)|[Solution](./collections-counter.py)

@@ -2,4 +2,4 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
-nCr table|[Problem](https://www.hackerrank.com/challenges/ncr-table/problem)|[Solution](/ncr-table.cpp)
+nCr table|[Problem](https://www.hackerrank.com/challenges/ncr-table/problem)|[Solution](./ncr-table.cpp)

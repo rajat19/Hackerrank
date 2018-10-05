@@ -2,4 +2,4 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
-Closest Number|[Problem](https://www.hackerrank.com/challenges/closest-number/problem)|[Solution](/closest-number.cpp)
+Closest Number|[Problem](https://www.hackerrank.com/challenges/closest-number/problem)|[Solution](./closest-number.cpp)
