@@ -6,3 +6,4 @@ Kruskal (MST): Really Special Subtree|[Problem](https://www.hackerrank.com/chall
 Even Tree|[Problem](https://www.hackerrank.com/challenges/even-tree/problem)|[Solution](./even-tree.java)
 Journey to the Moon|[Problem](https://www.hackerrank.com/challenges/journey-to-the-moon/problem)|[Solution](./journey-to-the-moon.cpp)
 Snakes and Ladders: The Quickest Way Up|[Problem](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)|[Solution](./snakes_and_ladders.cpp)
+HackerX|[Problem](https://www.hackerrank.com/challenges/missile-defend/problem)|[Solution](./hackerX.cpp)
