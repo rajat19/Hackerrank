@@ -12,3 +12,6 @@ Tree: Height of a Binary Tree|[Problem](https://www.hackerrank.com/challenges/tr
 Tree: Inorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|[Solution](./tree-inorder-traversal.java)
 Tree: Postorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|[Solution](./tree-postorder-traversal.java)
 Tree: Preorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|[Solution](./tree-preorder-traversal.java)
+Tree: Inorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-inorder-traversal/problem)|[Solution](./tree-in-order-traversal.c)
+Tree: Postorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|[Solution](./tree-post-order-traversal.c)
+Tree: Preorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|[Solution](./tree-pre-order-traversal.c)
