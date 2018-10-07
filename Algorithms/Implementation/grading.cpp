@@ -25,8 +25,7 @@ int main() {
     }
     vector < int > result = solve(grades);
     for (ssize_t i = 0; i < result.size(); i++) {
-        cout << result[i] << (i != result.size() - 1 ? "
-" : "");
+        cout << result[i] << (i != result.size() - 1 ? "" : "");
     }
     cout << endl;
     
