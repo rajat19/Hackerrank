@@ -57,4 +57,4 @@ Sherlock and Squares|[Problem](https://www.hackerrank.com/challenges/sherlock-an
 Find Digits|[Problem](https://www.hackerrank.com/challenges/find-digits/problem)|[Solution](./find-digits.py)
 Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|[Solution](./utopian-tree.java)
 Angry Professor|[Problem](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution](./angry-professor.java)
-Angry Professor|[Problem](https://www.hackerrank.com/challenges/angry-professor/problem)|[Solution](./angry-professor.java)
+Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./Grading Students.cpp)
