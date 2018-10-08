@@ -2,6 +2,7 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
+Cutting Boards|[Problem](https://www.hackerrank.com/challenges/board-cutting/problem)|[Solution](./board-cutting.cpp)
 Priyanka and Toys|[Problem](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|[Solution](./priyanka-and-toys.cpp)
 Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[Solution](./mark-and-toys.cpp)
 Mark and Toys|[Problem](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[Solution](./mark-and-toys.cpp)
