@@ -19,7 +19,7 @@ Queen's Attack II|[Problem](https://www.hackerrank.com/challenges/queens-attack-
 Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|[Solution](./grading.cpp)
 Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|[Solution](./encryption.java)
 Taum and B'day|[Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[Solution](./taum-and-bday.cpp)
-Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](./extra-long-factorials.java)
+Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](./extra-long-factorials.java)|[C++ Solution](./extra-long-factorials.cpp)
 ACM ICPC Team|[Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|[Solution](./acm-icpc-team.cpp)
 Equalize the Array|[Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[Solution](./equality-in-a-array.php)
 Beautiful Days at the Movies|[Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|[Solution](./beautiful-days-at-the-movies.cpp)
