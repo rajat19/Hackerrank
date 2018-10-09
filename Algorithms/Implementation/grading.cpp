@@ -2,19 +2,6 @@
 
 using namespace std;
 
-vector < int > solve(vector < int > grades){
-    int n = grades.size();
-    vector<int> fin(n);
-    int i;
-    for(i=0; i<n; i++) {
-        if(grades[i]<38) fin[i] = grades[i];
-        else if(grades[i]%5 >2) {
-            fin[i] = grades[i] + (5 - grades[i]%5);
-        }
-        else fin[i] = grades[i];
-    }
-    return fin;
-}
 
 int main() {
     int n;
@@ -23,13 +10,18 @@ int main() {
     for(int grades_i = 0; grades_i < n; grades_i++){
        cin >> grades[grades_i];
     }
-    vector < int > result = solve(grades);
-    for (ssize_t i = 0; i < result.size(); i++) {
-        cout << result[i] << (i != result.size() - 1 ? "" : "");
+    for(int grade_i = 0;grades_i < n; grades_i++){
+        if(grades[grades_i]<38)
+            printf("%d\n",grades[grades_i]);
+        else{
+            if((grades[grades_i]%10)>7){
+                grades[grades_i]+=10-(grades[grades_i]%10);
+            }
+            else if(((grades[grades_i]%10)>2)&&((grades[grades_i]%10)<6)){
+                grades[grades_i]+=5-(grades[grades_i]%10);
+            }
+            printf("%d\n",grades[grades_i]);
+        }
     }
-    cout << endl;
-    
-
     return 0;
 }
-
