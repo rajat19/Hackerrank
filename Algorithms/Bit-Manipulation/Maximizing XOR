@@ -1,0 +1,33 @@
+//PROBLEM LINK//
+https://www.hackerrank.com/challenges/maximizing-xor/problem
+
+//MY SOLUTION
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+#include <assert.h>
+
+int main() {
+    int a,b,i,j,p,n,max=0;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    n=a-b;
+    if(n<0)
+        n=n*(-1);
+
+    for(i=0;i<=n;i++)
+        {
+        for(j=0;j<n;j++)
+            {
+            p=(a+i)^(b-j+i);
+          // printf("%d ",p);
+            if(max<p)
+                max=p;
+            }
+            b--;
+    }
+    printf("%d",max);
+
+    return 0;
+}
