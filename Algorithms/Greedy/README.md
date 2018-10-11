@@ -14,3 +14,4 @@ Minimum Absolute Difference in an Array|[Problem](https://www.hackerrank.com/cha
 Sherlock and The Beast|[Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[Solution](./sherlock-and-the-beast.c)
 Greedy Florist|[Problem](https://www.hackerrank.com/challenges/greedy-florist/problem)|[Solution](./greedy_florist.cpp)
 Permuting Two Arrays|[Problem](https://www.hackerrank.com/challenges/two-arrays/problem)|[Solution](./permuting_two_arrays.cpp)
+Chief Hopper|[Problem](https://www.hackerrank.com/challenges/chief-hopper/problem)|[Solution](./chief_hopper.cpp)
