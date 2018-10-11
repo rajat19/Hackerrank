@@ -13,3 +13,7 @@ Marc's Cakewalk|[Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/p
 Minimum Absolute Difference in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[Solution](./minimum-absolute-difference-in-an-array.cpp)
 Sherlock and The Beast|[Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[Solution](./sherlock-and-the-beast.c)
 Grid Challenge|[Problem](https://www.hackerrank.com/challenges/grid-challenge/problem)|[Solution](./Grid_Challenge.cpp)
+Greedy Florist|[Problem](https://www.hackerrank.com/challenges/greedy-florist/problem)|[Solution](./Greedy_Florist.cpp)
+Max Min|[Problem](https://www.hackerrank.com/challenges/angry-children/problem)|[Solution](./Max_Min.cpp)
+Jim and the Orders|[Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|[Solution](./Jim_and_the_Orders.cpp)
+Permuting Two Arrays|[Problem](https://www.hackerrank.com/challenges/two-arrays/problem)|[Solution](./Permuting_Two_Arrays.cpp)
