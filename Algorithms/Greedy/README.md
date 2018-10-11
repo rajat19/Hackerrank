@@ -12,3 +12,4 @@ Luck Balance|[Problem](https://www.hackerrank.com/challenges/luck-balance/proble
 Marc's Cakewalk|[Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[Solution](./marcs-cakewalk.cpp)
 Minimum Absolute Difference in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[Solution](./minimum-absolute-difference-in-an-array.cpp)
 Sherlock and The Beast|[Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[Solution](./sherlock-and-the-beast.c)
+Grid Challenge|[Problem](https://www.hackerrank.com/challenges/grid-challenge/problem)|[Solution](./Grid_Challenge.cpp)
