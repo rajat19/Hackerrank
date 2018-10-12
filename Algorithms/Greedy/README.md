@@ -12,3 +12,6 @@ Luck Balance|[Problem](https://www.hackerrank.com/challenges/luck-balance/proble
 Marc's Cakewalk|[Problem](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[Solution](./marcs-cakewalk.cpp)
 Minimum Absolute Difference in an Array|[Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[Solution](./minimum-absolute-difference-in-an-array.cpp)
 Sherlock and The Beast|[Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[Solution](./sherlock-and-the-beast.c)
+Greedy Florist|[Problem](https://www.hackerrank.com/challenges/greedy-florist/problem)|[Solution](./greedy-florist.cpp)
+Permuting Two Arrays|[Problem](https://www.hackerrank.com/challenges/two-arrays/problem)|[Solution](./two-arrays.cpp)
+Chief Hopper|[Problem](https://www.hackerrank.com/challenges/chief-hopper/problem)|[Solution](./chief-hopper.cpp)
