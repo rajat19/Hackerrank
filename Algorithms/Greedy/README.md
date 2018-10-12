@@ -15,4 +15,6 @@ Sherlock and The Beast|[Problem](https://www.hackerrank.com/challenges/sherlock-
 Grid Challenge|[Problem](https://www.hackerrank.com/challenges/grid-challenge/problem)|[Solution](./grid-challenge.cpp)
 Max Min|[Problem](https://www.hackerrank.com/challenges/angry-children/problem)|[Solution](./angry-children.cpp)
 Jim and the Orders|[Problem](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|[Solution](./jim-and-the-orders.cpp)
+Greedy Florist|[Problem](https://www.hackerrank.com/challenges/greedy-florist/problem)|[Solution](./greedy-florist.cpp)
 Permuting Two Arrays|[Problem](https://www.hackerrank.com/challenges/two-arrays/problem)|[Solution](./two-arrays.cpp)
+Chief Hopper|[Problem](https://www.hackerrank.com/challenges/chief-hopper/problem)|[Solution](./chief-hopper.cpp)
