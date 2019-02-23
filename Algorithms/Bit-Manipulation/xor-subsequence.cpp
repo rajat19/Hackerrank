@@ -86,6 +86,5 @@ int main()
   FOR(i, 1, M)
     if (c[i] > y)
       y = c[x = i];
-  printf("%d %lld
-", x, y/2);
+  printf("%d %lld", x, y/2);
 }
