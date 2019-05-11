@@ -1,9 +1,11 @@
-[![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=social)]()
-[![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=social)]()
+[![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=social)](https://github.com/rajat19/Hackerrank/network/members)
+[![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=social)](https://github.com/rajat19/Hackerrank/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg)]()
 [![Open Issues](https://img.shields.io/github/issues-raw/rajat19/Hackerrank.svg)](https://www.github.com/rajat19/Hackerrank/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/rajat19/Hackerrank.svg)]()
-[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/rajat19/Hackerrank.svg)](https://github.com/rajat19/Hackerrank/commits/master)
+[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg)](https://github.com/rajat19/Hackerrank/blob/master/LICENSE)
+[![Languages count](https://img.shields.io/github/languages/count/rajat19/Hackerrank.svg)]()
+[![Top Language](https://img.shields.io/github/languages/top/rajat19/Hackerrank.svg)]()
 
 ## Hackerrank Solutions
 
