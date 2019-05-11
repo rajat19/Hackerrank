@@ -1,3 +1,10 @@
+[![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=social)]()
+[![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=social)]()
+[![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg)]()
+[![Open Issues](https://img.shields.io/github/issues-raw/rajat19/Hackerrank.svg)](https://www.github.com/rajat19/Hackerrank/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rajat19/Hackerrank.svg)]()
+[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg)]()
+
 ## Hackerrank Solutions
 
 This repository contains my hackerrank solutions for
