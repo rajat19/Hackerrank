@@ -14,3 +14,8 @@ Super Reduced String|[Problem](https://www.hackerrank.com/challenges/reduced-str
 Pangrams|[Problem](https://www.hackerrank.com/challenges/pangrams/problem)|[Solution](./pangrams.java)
 Caesar Cipher|[Problem](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[Solution](./caesar-cipher-1.cpp)
 Funny String|[Problem](https://www.hackerrank.com/challenges/funny-string/problem)|[Solution](./funny-string.java)
+Alternating characters|[Problem](https://www.hackerrank.com/challenges/alternating-characters/problem)|[Solution](./Alternating characters.cpp)
+Making Anagrams|[Problem](https://www.hackerrank.com/challenges/making-anagrams/problem)|[Solution](./Making Anagrams.cpp)
+Sherlock and the valid string|[Problem](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)|[Solution](./Sherlock and the Valid String.cpp)
+Two characters|[Problem](https://www.hackerrank.com/challenges/two-characters/problem)|[Solution](./Two_characters.cpp)
+Strong Password|[Problem](https://www.hackerrank.com/challenges/strong-password/problem)|[Solution](./Strong_password.cpp)
