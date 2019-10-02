@@ -1,5 +1,5 @@
 ## Steps for contributing
-1. Git clone the repository `git clone git@github.com:rajat19/Hackerrank-Solutions.git`
+1. Fork the repository `git clone git@github.com:rajat19/Hackerrank-Solutions.git`
 2. Create a new branch `git checkout -b contributing`
 3. Make changes and add your solutions in it
 4. Stage your changes (add and commit)
