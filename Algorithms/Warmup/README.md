@@ -20,3 +20,4 @@ Simple Array Sum|[Problem](https://www.hackerrank.com/challenges/simple-array-su
 Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution](./solve-me-first.cpp)
 Solve Me First|[Problem](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution](./solve-me-first.php)
 Virtual Functions|[Problem](https://www.hackerrank.com/challenges/virtual-functions/problem)|[Solution](./virtual-functions.cpp)
+Sock Merchant|[Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)|[Solution](./sock-merchant.cpp)
