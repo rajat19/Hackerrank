@@ -8,4 +8,5 @@ The Longest Common Subsequence|[Problem](https://www.hackerrank.com/challenges/d
 Candies|[Problem](https://www.hackerrank.com/challenges/candies/problem)|[Solution](./candies.cpp)
 The Maximum Subarray|[Problem](https://www.hackerrank.com/challenges/maxsubarray/problem)|[Solution](./maxsubarray.cpp)
 Equal|[Problem](https://www.hackerrank.com/challenges/equal/problem)|[Solution](./equal.cpp)
+Construct the Array|[Problem](https://www.hackerrank.com/challenges/construct-the-array/problem)|[Solution](./construct-the-array.cpp)
 
