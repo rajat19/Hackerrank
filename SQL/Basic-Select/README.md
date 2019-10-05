@@ -1,21 +1,7 @@
-## [Basic-Select](https://www.hackerrank.com/domains/sql/select)
+## [BasicSelect](https://www.hackerrank.com/domains/sql/select)
 
-Problem Name|Problem Link|Solution Link
----|---|---
-Employee Names |[Problem](https://www.hackerrank.com/challenges/name-of-employees/problem)|[Solution](./name-of-employees.sql)
-Weather Observation Station 10|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[Solution](./weather-observation-station-10.sql)
-Weather Observation Station 10|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[Solution](./weather-observation-station-10.sql)
-Weather Observation Station 9|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)|[Solution](./weather-observation-station-9.sql)
-Weather Observation Station 8|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-8/problem)|[Solution](./weather-observation-station-8.sql)
-Weather Observation Station 7|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|[Solution](./weather-observation-station-7.sql)
-Weather Observation Station 6|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|[Solution](./weather-observation-station-6.sql)
-Weather Observation Station 4|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|[Solution](./weather-observation-station-4.sql)
-Weather Observation Station 3|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|[Solution](./weather-observation-station-3.sql)
-Weather Observation Station 1|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|[Solution](./weather-observation-station-1.sql)
-Japanese Cities' Names|[Problem](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[Solution](./japanese-cities-name.sql)
-Japanese Cities' Attributes|[Problem](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|[Solution](./japanese-cities-attributes.sql)
-Revising the Select Query II|[Problem](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|[Solution](./revising-the-select-query-2.sql)
-Revising the Select Query I|[Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Solution](./revising-the-select-query.sql)
-Select By ID|[Problem](https://www.hackerrank.com/challenges/select-by-id/problem)|[Solution](./select-by-id.sql)
-Select All|[Problem](https://www.hackerrank.com/challenges/select-all-sql/problem)|[Solution](./select-all-sql.sql)
-Higher than 75 marks|[Problem](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|[Solution](https://github.com/ank47197/Hackerrank/blob/master/SQL/Basic-Select/more-than-75-marks.sql)
+|Problem Name|Problem Link|Language|Solution Link|
+---|---|---|---
+|Weather Observation Station 5|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|mysql|[Solution](./weather-observation-station-5.sql)|
+|Employee Names|[Problem](https://www.hackerrank.com/challenges/name-of-employees/problem)|mysql|[Solution](./name-of-employees.sql)|
+|Employee Salaries|[Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)|mysql|[Solution](./salary-of-employees.sql)|
