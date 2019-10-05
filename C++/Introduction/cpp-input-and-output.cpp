@@ -7,9 +7,10 @@ using namespace std;
 
 
 int main() {
-    int i,j,k;
-    cin>>i>>j>>k;
-    cout<<(i+j+k);
-    return 0;
+int a,b,c;
+  
+  cin>>a >> b>>c;
+  cout<<a+b+c;
+  
+  return 0;
 }
-
