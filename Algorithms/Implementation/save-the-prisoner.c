@@ -4,18 +4,13 @@
 #include <stdlib.h>
 
 int main() {
-    long int n,t,m,s,ans;
-    scanf("%ld", &t);
-    while(t>0) {
-        scanf("%ld%ld%ld",&n,&m,&s);
-        ans = (m+s-1)%n;
-        if(ans == 0)
-            ans = n;
-        printf("%ld
-",ans);
-        t--;
-    }
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+ 
+  int t,n,m,s;
+  scanf("%d",&t);
+  while(t--){
+      scanf("%d %d %d",&n,&m,&s);
+    
+    printf("%d",(s+m-1)%n);
+  }
     return 0;
 }
-
