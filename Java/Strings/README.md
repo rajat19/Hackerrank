@@ -1,6 +1,7 @@
 ## [Strings](https://www.hackerrank.com/domains/java/java-strings)
 
-Problem Name|Problem Link|Solution Link
----|---|---
-Java Substring Comparisons|[Problem](https://www.hackerrank.com/challenges/java-string-compare/problem)|[Solution](./java-string-compare.java)
-Java Regex|[Problem](https://www.hackerrank.com/challenges/java-regex/problem)|[Solution](./java-regex.java)
+|Problem Name|Problem Link|Language|Solution Link|
+---|---|---|---
+|Valid Username Regular Expression|[Problem](https://www.hackerrank.com/challenges/valid-username-checker/problem)|java|[Solution](./ValidUsernameRegularExpression.java)|
+|Java String Tokens|[Problem](https://www.hackerrank.com/challenges/java-string-tokens/problem)|java|[Solution](./JavaStringTokens.java)|
+|Pattern Syntax Checker|[Problem](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)|java|[Solution](./PatternSyntaxChecker.java)|
