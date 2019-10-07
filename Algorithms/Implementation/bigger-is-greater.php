@@ -10,8 +10,7 @@ while($n > 0) {
         echo "no answer";
     }
     else echo implode($res, '');
-    echo "
-";
+    echo "\n";
     $n--;
 }
 

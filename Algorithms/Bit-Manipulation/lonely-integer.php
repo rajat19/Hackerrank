@@ -17,4 +17,3 @@ $res = lonelyinteger($_a);
 echo $res;
 
 ?>
-

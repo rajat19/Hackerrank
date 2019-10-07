@@ -13,9 +13,7 @@ int main() {
     }
     for(i=0;i<q;i++) {
         scanf("%d", &x);
-        printf("%d
-", a[x]);
+        printf("%d\n", a[x]);
     }
     return 0;
 }
-

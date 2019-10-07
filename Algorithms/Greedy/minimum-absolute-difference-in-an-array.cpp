@@ -24,4 +24,3 @@ int main() {
     cout<<mindif;
     return 0;
 }
-

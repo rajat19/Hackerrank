@@ -24,4 +24,3 @@ public class Solution {
         System.out.println(sz * 1.0/n);
     }
 }
-

@@ -20,4 +20,3 @@ while($step < count($c)) {
 }
 echo $total-1;
 ?>
-

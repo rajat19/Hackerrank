@@ -31,4 +31,3 @@ int main() {
     else cout<<"Empty String"<<endl;
     return 0;
 }
-

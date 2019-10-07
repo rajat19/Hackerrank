@@ -8,6 +8,7 @@ int main() {
 	vector<int> v(n, 0);
 	for(i=0; i<n; i++) {
 		cin>>v[i];
+		// cout<<mx<<" "<<v[i]<<endl;
         if (v[i] > mx) mx = v[i];
 	}
     x=0;

@@ -26,4 +26,3 @@ while(count($arr) != 0) {
 }
 
 ?>
-

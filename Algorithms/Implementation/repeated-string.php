@@ -11,4 +11,3 @@ $news .= substr($s, 0, $r);
 $ans = substr_count($news, 'a') + $a;
 echo $ans;
 ?>
-

@@ -24,4 +24,3 @@ public class Solution {
         System.out.println(Math.abs(s1 - s2));
     }
 }
-

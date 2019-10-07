@@ -22,19 +22,15 @@ $fptr = fopen(getenv("OUTPUT_PATH"), "w");
 
 $__fp = fopen("php://stdin", "r");
 
-fscanf($__fp, "%d
-", $n);
+fscanf($__fp, "%d\n", $n);
 
-fscanf($__fp, "%[^
-]", $score_temp);
+fscanf($__fp, "%[^\n]", $score_temp);
 
 $score = array_map('intval', preg_split('/ /', $score_temp, -1, PREG_SPLIT_NO_EMPTY));
 
 $result = breakingRecords($score);
 
-fwrite($fptr, implode(" ", $result) . "
-");
+fwrite($fptr, implode(" ", $result) . "\n");
 
 fclose($__fp);
 fclose($fptr);
-

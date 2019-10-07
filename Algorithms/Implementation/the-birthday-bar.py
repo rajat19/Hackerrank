@@ -16,4 +16,3 @@ d, m = input().strip().split(' ')
 d, m = [int(d), int(m)]
 result = solve(n, s, d, m)
 print(result)
-
