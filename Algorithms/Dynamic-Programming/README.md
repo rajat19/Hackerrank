@@ -7,5 +7,5 @@ Fibonacci Modified|[Problem](https://www.hackerrank.com/challenges/fibonacci-mod
 The Longest Common Subsequence|[Problem](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)|[Solution](./the-longest-common-subsequence.cpp)
 Candies|[Problem](https://www.hackerrank.com/challenges/candies/problem)|[Solution](./candies.cpp)
 The Maximum Subarray|[Problem](https://www.hackerrank.com/challenges/maxsubarray/problem)|[Solution](./maxsubarray.cpp)
-
+Construct the Array|[Problem](https://www.hackerrank.com/challenges/construct-the-array/copy-from/98100479)|[Solution](./construct_the_array.cpp)
 
