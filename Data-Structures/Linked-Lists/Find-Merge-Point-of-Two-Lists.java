@@ -22,4 +22,3 @@ int FindMergeNode(Node headA, Node headB) {
     }
     return ans;
 }
-

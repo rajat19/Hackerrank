@@ -16,4 +16,3 @@ void Print(Node *head)
         p = p->next;
     }
 }
-

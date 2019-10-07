@@ -18,4 +18,3 @@ Node RemoveDuplicates(Node head) {
     }
     return head;
 }
-

@@ -23,4 +23,3 @@ boolean hasCycle(Node head) {
     }
     return false;
 }
-

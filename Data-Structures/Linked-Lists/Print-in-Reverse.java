@@ -31,4 +31,3 @@ void printlist(Node p) {
         p = p.next;
     }
 }
-

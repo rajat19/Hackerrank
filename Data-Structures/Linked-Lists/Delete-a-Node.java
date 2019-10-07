@@ -33,4 +33,3 @@ Node Delete(Node head, int position) {
     }
 }
 
-

@@ -25,10 +25,8 @@ int main() {
         for(i=0; i<l; i++) {
             insert(s[i], i);
         }
-        if(top == NULL) printf("YES
-");
-        else printf("NO
-");    
+        if(top == NULL) printf("YES\n");
+        else printf("NO\n");    
     }
 	//display();
 	return 0;

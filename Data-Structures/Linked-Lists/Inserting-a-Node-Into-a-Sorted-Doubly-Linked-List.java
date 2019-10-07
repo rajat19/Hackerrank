@@ -27,4 +27,3 @@ Node SortedInsert(Node head,int data) {
     }
     return head;
 }
-

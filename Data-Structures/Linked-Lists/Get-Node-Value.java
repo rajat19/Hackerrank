@@ -27,4 +27,3 @@ int GetNode(Node head,int n) {
     }
     return q.data;
 }
-

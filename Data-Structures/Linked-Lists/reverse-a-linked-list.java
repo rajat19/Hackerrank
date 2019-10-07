@@ -22,4 +22,3 @@ Node Reverse(Node head) {
     head = p;
     return head;
 }
-

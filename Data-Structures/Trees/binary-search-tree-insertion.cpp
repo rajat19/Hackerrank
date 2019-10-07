@@ -22,4 +22,3 @@ node * insert(node * root, int value) {
     else root->right = insert(root->right, value);
     return root;
 }
-

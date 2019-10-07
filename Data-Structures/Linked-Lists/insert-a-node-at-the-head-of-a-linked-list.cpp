@@ -16,4 +16,3 @@ Node* Insert(Node *head,int data)
     q->next = p;
     return q;
 }
-

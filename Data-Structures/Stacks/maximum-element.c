@@ -53,6 +53,5 @@ void max() {
 		if(c<temp->data) c = temp->data;
 		temp = temp->next;
 	}
-	printf("%d
-", c);
+	printf("%d\n", c);
 }
