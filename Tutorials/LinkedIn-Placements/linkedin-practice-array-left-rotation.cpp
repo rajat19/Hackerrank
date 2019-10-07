@@ -11,4 +11,3 @@ int main() {
         cout<<a[(i+d)%n]<<" ";
     return 0;
 }
-

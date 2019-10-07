@@ -12,10 +12,8 @@ main = do
     [l, r] <- readInts
     let poly = zip coeffs powers
         (area, volume) = areaVolume poly (l, r)
-    printf "%.1f
-" area
-    printf "%.1f
-" volume
+    printf "%.1f\n" area
+    printf "%.1f\n" volume
 
 readInts :: IO [Int]
 readInts = map read . words <$> getLine

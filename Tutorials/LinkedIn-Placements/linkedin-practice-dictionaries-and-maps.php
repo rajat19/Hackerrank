@@ -10,10 +10,8 @@ while($n!=0) {
 }
 while(fscanf($fp, "%s", $s)) {
     if($dict[$s]) {
-        echo $s."=".$dict[$s]."
-";
+        echo $s."=".$dict[$s]."\n";
     }
-    else echo "Not found
-";
+    else echo "Not found\n";
 }
 ?>

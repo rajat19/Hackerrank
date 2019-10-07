@@ -5,4 +5,3 @@ solve x = sum (expt x)
 
 main :: IO ()
 main = getContents >>= mapM_ print. map solve. map (read::String->Double). tail. words
-

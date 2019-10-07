@@ -1,3 +1,1 @@
-Select Name
-From Employee
-Order by Name Asc;
+select Name from Employee order by Name asc

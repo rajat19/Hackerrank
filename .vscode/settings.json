@@ -3,5 +3,5 @@
 		"functional": "cpp",
 		"iostream": "cpp"
 	},
-	"python.pythonPath": "/usr/bin/python3.5"
+	"python.pythonPath": "/usr/local/bin/python3"
 }

@@ -25,4 +25,3 @@ int main() {
     else cout<<"Greater than 9";
     return 0;
 }
-

@@ -5,4 +5,3 @@ f lst = [j | (i, j) <- zip [1..] lst, even i]
 main = do
    inputdata <- getContents
    mapM_ (putStrLn. show). f. map read. lines $ inputdata
-

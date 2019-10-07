@@ -22,8 +22,16 @@ ll find(vector<ll> ar, ll x, ll y) {
             if(ar[x+2] == 0) return 0;
         }
         return 0;
-    }
+    }/*
+    if(x+1 > y) return 1;
+    if(ar[x+1] == 1) return 1;
+    if(ar[x+1] == 0) {
+        return 1;
+    }*/
     return 1;
+//    ll ans = pow(ar[x],find(ar, x+1, y));
+  //  cout<<ans<<" for x = "<<x<<" and y = "<<y<<endl;
+  //  return ans;
 }
 
 int main() {

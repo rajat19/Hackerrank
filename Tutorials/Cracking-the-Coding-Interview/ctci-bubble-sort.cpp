@@ -18,8 +18,6 @@ int main() {
             }
         }
     }
-    cout<<"Array is sorted in "<<swaps<<" swaps.
-First Element: "<<a[0]<<"
-Last Element: "<<a[n-1];
+    cout<<"Array is sorted in "<<swaps<<" swaps.\nFirst Element: "<<a[0]<<"\nLast Element: "<<a[n-1];
     return 0;
 }

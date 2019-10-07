@@ -12,4 +12,3 @@ for i in range(m):
         
 print(sum(s))
 
-

@@ -62,4 +62,3 @@ for _ in range(n):
     for i in range(500):
         output += playgame(prob, snake_start, snake_end, ladder_start, ladder_end)
     print((int)(output/500))
-

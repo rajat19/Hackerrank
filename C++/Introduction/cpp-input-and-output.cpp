@@ -12,4 +12,3 @@ int main() {
     cout<<(i+j+k);
     return 0;
 }
-

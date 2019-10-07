@@ -7,4 +7,3 @@ def dx(n, m):
 n,m = input().strip().split(' ')
 n,m = [int(n),int(m)]
 print(dx(n, m))
-

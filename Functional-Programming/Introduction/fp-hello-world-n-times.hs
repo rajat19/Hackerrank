@@ -9,4 +9,3 @@ hello_worlds n =
 main = do
    n <- readLn :: IO Int
    hello_worlds n
-

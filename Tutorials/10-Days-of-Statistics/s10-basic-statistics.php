@@ -20,7 +20,5 @@ foreach($acv as $x=>$v) {
         $mode = $x;
     }
 }
-echo "$mean
-$median
-$mode";
+echo "$mean\n$median\n$mode";
 ?>
