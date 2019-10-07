@@ -11,11 +11,9 @@ int main() {
         ans = (m+s-1)%n;
         if(ans == 0)
             ans = n;
-        printf("%ld
-",ans);
+        printf("%ld\n",ans);
         t--;
     }
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
-

@@ -15,4 +15,3 @@ int main() {
     cout<<s;
     return 0;
 }
-

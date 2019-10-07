@@ -33,9 +33,7 @@ int main(){
                 printf("3");
             }
         }
-        printf("
-");
+        printf("\n");
     }
     return 0;
 }
-

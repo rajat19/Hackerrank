@@ -1,5 +1,10 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
 #include <iostream>
+#include <algorithm>
 using namespace std;
+
 
 int main() {
     int a[3], b[3], pta = 0, ptb = 0;

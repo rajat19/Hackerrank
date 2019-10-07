@@ -13,8 +13,7 @@ while($t!=0) {
     sort($ar);
     $ar = array_unique($ar);
     foreach($ar as $v) echo $v." ";
-    echo "
-";
+    echo "\n";
     unset($ar);
     $t--;
 }

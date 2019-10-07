@@ -24,4 +24,3 @@ int main() {
     cout<<min;
     return 0;
 }
-

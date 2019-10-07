@@ -22,4 +22,3 @@ a = [int(i) for i in input().split(' ')]
 asc=solution(list(a))
 desc=solution(list(reversed(a)))
 print (min(asc,desc))
-

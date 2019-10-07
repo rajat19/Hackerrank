@@ -30,4 +30,3 @@ if __name__ == "__main__":
        s.append(s_t)
     result = formingMagicSquare(s)
     print(result)
-

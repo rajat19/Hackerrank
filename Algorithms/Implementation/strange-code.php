@@ -16,4 +16,3 @@ while($y < $t) {
 }
 echo $k;
 ?>
-

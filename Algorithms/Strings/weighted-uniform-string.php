@@ -19,9 +19,7 @@ for($a0 = 0; $a0 < $n; $a0++){
     fscanf($handle,"%d",$x);
     if(in_array($x, $mega)) echo "Yes";
     else echo "No";
-    echo "
-";
+    echo "\n";
 }
 
 ?>
-

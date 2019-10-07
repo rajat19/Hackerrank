@@ -16,4 +16,3 @@ int main() {
     cout<<ar[(n-1)/2];
     return 0;
 }
-

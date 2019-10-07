@@ -20,8 +20,6 @@ int main() {
         if(d>=s && d<=t) o++;
         n--;
     }
-    cout<<ap<<"
-"<<o;
+    cout<<ap<<"\n"<<o;
     return 0;
 }
-

@@ -34,4 +34,3 @@ int main() {
 	cout<<tot;
 	return 0;
 }
-

@@ -27,4 +27,3 @@ int main() {
     for(i=0; i<k; i++) cout<<r[i]<<" ";
     return 0;
 }
-
