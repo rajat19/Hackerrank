@@ -21,4 +21,3 @@ if __name__ == '__main__':
     else: print(False)
     if(up>0): print(True)
     else: print(False)
-

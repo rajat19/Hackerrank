@@ -18,4 +18,3 @@ if __name__ == '__main__':
         elif(x[0]=='reverse'):
             list.reverse()
     
-

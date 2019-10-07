@@ -6,4 +6,3 @@ f n arr = -- Complete this function
 main :: IO ()
 main = getContents >>=
        mapM_ print. (\(n:arr) -> f n arr). map read. words
-

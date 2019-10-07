@@ -21,4 +21,3 @@ first_moves = map(int, input().split())
 second_moves = map(int, input().split())
 bid = calculate_bid(player,scotch_pos,first_moves,second_moves)
 print(bid)
-

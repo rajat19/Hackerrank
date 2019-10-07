@@ -8,4 +8,3 @@ main = do
     let 
         numbers = map read (lines inputdata) :: [Int] 
     putStrLn . unlines $ (map show . f n) numbers
-

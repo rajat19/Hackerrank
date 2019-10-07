@@ -6,8 +6,7 @@ void next_move(int posr, int posc, char board[5][5])
        int i,j;
        if(board[posr][posc] == 'd')
        {
-              printf("CLEAN
-");
+              printf("CLEAN\n");
        }
        else
        {
@@ -17,34 +16,28 @@ void next_move(int posr, int posc, char board[5][5])
                      {
                            if(board[i][j] == 'd')
                            {
-                                  //printf("%d %d
-",i,j);
+                                  //printf("%d %d\n",i,j);
                                   if(posc>j)
                                   {
-                                         printf("LEFT
-");
+                                         printf("LEFT\n");
                                   }
                                   else if(posc<j)
                                   {
-                                         printf("RIGHT
-");
+                                         printf("RIGHT\n");
                                   }
                                   else
                                   {
                                          if(posr>i)
                                          {
-                                                printf("UP
-");
+                                                printf("UP\n");
                                          }
                                          else if(posr<i)
                                          {
-                                                printf("DOWN
-");
+                                                printf("DOWN\n");
                                          }     
                                          else
                                          {
-                                                printf("CLEAN
-");
+                                                printf("CLEAN\n");
                                          }
                                   }
                                   return;
@@ -63,10 +56,8 @@ int main(void) {
     scanf("%d", &pos[0]);
     scanf("%d", &pos[1]);
     for(i=0; i<5; i++) {
-        scanf("%s[^\
-]%*c", board[i]);
+        scanf("%s[^\\n]%*c", board[i]);
     }
     next_move(pos[0], pos[1], board);
     return 0;
 }
-

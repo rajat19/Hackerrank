@@ -64,4 +64,3 @@ if __name__ == "__main__":
     x,y,k = [ int(i) for i in raw_input().strip().split() ] 
     grid = [[i for i in str(raw_input().strip())] for _ in range(x)] 
     nextMove(x, y, k, grid)
-

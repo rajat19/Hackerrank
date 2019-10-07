@@ -32,8 +32,7 @@ foreach($exploded as $sen) {
 
 $exc_sep = [];
 foreach($dot_sep as $sen) {
-    $s = str_replace('!', "!
-", $sen);
+    $s = str_replace('!', "!\n", $sen);
     array_push($exc_sep, $s);
     /*$exc = explode('!', $sen);
     for($i=0; $i<count($exc); $i++) {
@@ -46,8 +45,7 @@ foreach($dot_sep as $sen) {
 
 $que_sep = [];
 foreach($exc_sep as $sen) {
-    $s = str_replace('?', "!
-", $sen);
+    $s = str_replace('?', "!\n", $sen);
     array_push($que_sep, $s);
     /*$que = explode('!', $sen);
     for($i=0; $i<count($que); $i++) {
@@ -59,7 +57,6 @@ foreach($exc_sep as $sen) {
 }
 
 foreach($que_sep as $sen) {
-    echo $sen."
-";
+    echo $sen."\n";
 }
 ?>

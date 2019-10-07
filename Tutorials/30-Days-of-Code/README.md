@@ -1,8 +1,22 @@
 ## [30-Days-of-Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
-Problem Name|Problem Link|Solution Link
----|---|---
-Day 3: Intro to Conditional Statements|[Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|[Solution](./30-conditional-statements.java)
-Day 2: Operators|[Problem](https://www.hackerrank.com/challenges/30-operators/problem)|[Solution](./30-operators.java)
-Day 1: Data Types|[Problem](https://www.hackerrank.com/challenges/30-data-types/problem)|[Solution](./30-data-types.java)
-Day 0: Hello, World.|[Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)|[Solution](./30-hello-world.py)
+Problem Name|Problem Link|Language|Solution Link
+---|---|---|---
+Day 17: More Exceptions|[Problem](https://www.hackerrank.com/challenges/30-more-exceptions/problem)|python3|[Solution](./30-more-exceptions.py)
+Day 0: Hello, World.|[Problem](https://www.hackerrank.com/challenges/30-hello-world/problem)|python3|[Solution](./30-hello-world.py)
+Day 10: Binary Numbers|[Problem](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|python3|[Solution](./30-binary-numbers.py)
+Day 11: 2D Arrays|[Problem](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|python3|[Solution](./30-2d-arrays.py)
+Day 12: Inheritance|[Problem](https://www.hackerrank.com/challenges/30-inheritance/problem)|python3|[Solution](./30-inheritance.py)
+Day 13: Abstract Classes|[Problem](https://www.hackerrank.com/challenges/30-abstract-classes/problem)|java8|[Solution](./Day-13:-Abstract-Classes.java)
+Day 14: Scope|[Problem](https://www.hackerrank.com/challenges/30-scope/problem)|python3|[Solution](./30-scope.py)
+Day 15: Linked List|[Problem](https://www.hackerrank.com/challenges/30-linked-list/problem)|cpp14|[Solution](./30-linked-list.cpp)
+Day 16: Exceptions - String to Integer|[Problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)|python3|[Solution](./30-exceptions-string-to-integer.py)
+Day 1: Data Types|[Problem](https://www.hackerrank.com/challenges/30-data-types/problem)|java|[Solution](./Day-1:-Data-Types.java)
+Day 2: Operators|[Problem](https://www.hackerrank.com/challenges/30-operators/problem)|java|[Solution](./Day-2:-Operators.java)
+Day 3: Intro to Conditional Statements|[Problem](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|java|[Solution](./Day-3:-Intro-to-Conditional-Statements.java)
+Day 4: Class vs. Instance|[Problem](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|python3|[Solution](./30-class-vs-instance.py)
+Day 5: Loops|[Problem](https://www.hackerrank.com/challenges/30-loops/problem)|python3|[Solution](./30-loops.py)
+Day 6: Let's Review|[Problem](https://www.hackerrank.com/challenges/30-review-loop/problem)|python3|[Solution](./30-review-loop.py)
+Day 7: Arrays|[Problem](https://www.hackerrank.com/challenges/30-arrays/problem)|python3|[Solution](./30-arrays.py)
+Day 8: Dictionaries and Maps|[Problem](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|python3|[Solution](./30-dictionaries-and-maps.py)
+Day 9: Recursion 3  |[Problem](https://www.hackerrank.com/challenges/30-recursion/problem)|python3|[Solution](./30-recursion.py)

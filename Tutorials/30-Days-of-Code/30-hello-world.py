@@ -5,4 +5,3 @@ print('Hello, World.')
 
 # Write the second line of output
 print(inputString)
-

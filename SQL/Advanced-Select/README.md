@@ -1,6 +1,6 @@
 ## [Advanced-Select](https://www.hackerrank.com/domains/sql/advanced-select)
 
-Problem Name|Problem Link|Solution Link
----|---|---
-The PADS|[Problem](https://www.hackerrank.com/challenges/the-pads/problem)|[Solution](./the-pads.sql)
-New Companies|[Problem](https://www.hackerrank.com/challenges/the-company/problem)|[Solution](https://github.com/ank47197/Hackerrank/blob/master/SQL/Advanced-Select/the-company.sql)
+Problem Name|Problem Link|Language|Solution Link
+---|---|---|---
+New Companies|[Problem](https://www.hackerrank.com/challenges/the-company/problem)|mysql|[Solution](./the-company.sql)
+The PADS|[Problem](https://www.hackerrank.com/challenges/the-pads/problem)|mysql|[Solution](./the-pads.sql)
