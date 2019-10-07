@@ -22,4 +22,3 @@ Node* Insert(Node *head,int x)
     p->next = q;
     return head;
 }
-

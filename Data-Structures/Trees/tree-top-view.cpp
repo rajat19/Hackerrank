@@ -21,4 +21,3 @@ void top_view(node * root) {
     posord(root);
     preord(root->right);
 }
-

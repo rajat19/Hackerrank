@@ -36,4 +36,3 @@ Node MergeLists(Node headA, Node headB) {
  
     return head.next;
 }
-

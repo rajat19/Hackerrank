@@ -13,4 +13,3 @@ int main() {
     for(i=0; i<n; i++) cout<<a[(n+i+m)%n]<<" ";
     return 0;
 }
-

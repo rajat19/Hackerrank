@@ -27,4 +27,3 @@ Node* Reverse(Node* head) {
         return temp;
     }
 }
-

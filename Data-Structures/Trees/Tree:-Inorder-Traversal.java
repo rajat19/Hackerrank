@@ -9,11 +9,11 @@ class Node {
 
 */
 
-void preOrder(Node root) {
-    if(root != null) {
-        System.out.print(root.data+" ");
-        preOrder(root.left);
-        preOrder(root.right);
+void inOrder(Node root) {
+    if(root!=null) {
+        inOrder(root.left);
+    System.out.print(root.data+" ");
+    inOrder(root.right);    
     }
+    
 }
-

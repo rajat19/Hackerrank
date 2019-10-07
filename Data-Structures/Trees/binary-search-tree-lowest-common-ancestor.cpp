@@ -20,4 +20,3 @@ node * lca(node * root, int v1,int v2) {
     return (leftlca != NULL)? leftlca: rightlca;
 }
 
-

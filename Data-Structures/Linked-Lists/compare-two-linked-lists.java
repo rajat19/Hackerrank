@@ -29,4 +29,3 @@ int CompareLists(Node headA, Node headB) {
     }
     return flag;
 }
-

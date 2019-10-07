@@ -40,4 +40,3 @@ Node InsertNth(Node head, int data, int position) {
         
     return trackedHeadNode;
 }
-
