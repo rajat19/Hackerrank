@@ -2,6 +2,7 @@
 
 Problem Name|Problem Link|Solution Link
 ---|---|---
+Employees Salaries |[Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[Solution](./salary-of-employees.sql)
 Employee Names |[Problem](https://www.hackerrank.com/challenges/name-of-employees/problem)|[Solution](./name-of-employees.sql)
 Weather Observation Station 10|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[Solution](./weather-observation-station-10.sql)
 Weather Observation Station 10|[Problem](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)|[Solution](./weather-observation-station-10.sql)
