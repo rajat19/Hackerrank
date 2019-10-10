@@ -30,6 +30,7 @@ Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|j
 Equalize the Array|[Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|php|[Solution](./equality-in-a-array.php)
 Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|java|[Solution](./Extra-Long-Factorials.java)
 Find Digits|[Problem](https://www.hackerrank.com/challenges/find-digits/problem)|python|[Solution](./find-digits.py)
+Find Digits|[Problem](https://www.hackerrank.com/challenges/find-digits/problem)|python|[Solution](./find-digits.cpp)
 Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|cpp14|[Solution](./flatland-space-stations.cpp)
 Forming a Magic Square|[Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem)|python3|[Solution](./magic-square-forming.py)
 Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|cpp|[Solution](./grading.cpp)
