@@ -1,15 +1,19 @@
-[![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=social)](https://github.com/rajat19/Hackerrank/network/members)
-[![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=social)](https://github.com/rajat19/Hackerrank/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg)]()
-[![Open Issues](https://img.shields.io/github/issues-raw/rajat19/Hackerrank.svg)](https://www.github.com/rajat19/Hackerrank/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/rajat19/Hackerrank.svg)](https://github.com/rajat19/Hackerrank/commits/master)
-[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg)](https://github.com/rajat19/Hackerrank/blob/master/LICENSE)
-[![Languages count](https://img.shields.io/github/languages/count/rajat19/Hackerrank.svg)]()
-[![Top Language](https://img.shields.io/github/languages/top/rajat19/Hackerrank.svg)]()
+[![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/network/members)
+[![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/graphs/contributors)
+[![License](https://img.shields.io/github/license/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/blob/master/LICENSE)
+
+[![Open Issues](https://img.shields.io/github/issues-raw/rajat19/Hackerrank.svg?style=for-the-badge)](https://www.github.com/rajat19/Hackerrank/issues)
+[![Open PR](https://img.shields.io/github/issues-pr-raw/rajat19/Hackerrank?label=open%20PR&style=for-the-badge)](https://github.com/rajat19/Hackerrank/pulls)
+[![Closed PR](https://img.shields.io/github/issues-pr-closed-raw/rajat19/Hackerrank?label=closed%20PR&style=for-the-badge)](https://github.com/rajat19/Hackerrank/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub last commit](https://img.shields.io/github/last-commit/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/commits/master)
+
+![Languages count](https://img.shields.io/github/languages/count/rajat19/Hackerrank.svg?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/rajat19/Hackerrank.svg?style=for-the-badge)
 
 ## Hackerrank Solutions
 
-This repository contains my hackerrank solutions for
+This repository contains hackerrank solutions for most problems of hackerrank
 
 |Problems|Solutions|
 |---|---|
@@ -28,13 +32,13 @@ This repository contains my hackerrank solutions for
 I will keep updating the repository
 
 ### Note
-For Functional Programming code is written in **Haskell**
-
-For other, code is written in one of following language -
+Code is written in one of following language -
 1. **C++**
-2. **Python**
-3. **Java**
-4. **PHP**
+2. **C**
+3. **Python**
+4. **Java**
+5. **PHP**
+6. **Haskell**
 
 I will try to convert all code in all above languages so that any beginner can also get help in a particular language
 
