@@ -3,3 +3,4 @@
 Problem Name|Problem Link|Language|Solution Link
 ---|---|---|---
 Deque-STL|[Problem](https://www.hackerrank.com/challenges/deque-stl/problem)|cpp|[Solution](./deque-stl.cpp)
+Vector-Sort|[Problem](https://www.hackerrank.com/challenges/vector-sort/problem)|cpp|[Solution](./vector-sort.cpp)
