@@ -40,7 +40,5 @@ Code is written in one of following language -
 5. **PHP**
 6. **Haskell**
 
-I will try to convert all code in all above languages so that any beginner can also get help in a particular language
-
 ## Contributing
 Read <a href="Contributing.md">Contributing.md</a>

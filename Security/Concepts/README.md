@@ -3,3 +3,4 @@
 Problem Name|Problem Link|Language|Solution Link
 ---|---|---|---
 Security Encryption Scheme|[Problem](https://www.hackerrank.com/challenges/security-encryption-scheme/problem)|Java|[Solution](./Security-Encryption-Scheme.java)
+Security Key Spaces|[Problem](https://www.hackerrank.com/challenges/security-key-spaces/problem)|Java|[Solution](./Security-Key-Spaces.java)
