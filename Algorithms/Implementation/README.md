@@ -57,3 +57,4 @@ The Grid Search|[Problem](https://www.hackerrank.com/challenges/the-grid-search/
 The Hurdle Race|[Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|python3|[Solution](./the-hurdle-race.py)
 Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|java|[Solution](./Utopian-Tree.java)
 Viral Advertising|[Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)|python3|[Solution](./strange-advertising.py)
+The Bomberman Game|[Problem](https://www.hackerrank.com/challenges/bomber-man/problem)|cpp|[Solution](./The_Bomberman_Game.cpp)
