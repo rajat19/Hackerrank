@@ -14,6 +14,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "IgnacioVellido",
+      "name": "Ignacio Vellido Exposito",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23424251?v=4",
+      "profile": "https://github.com/IgnacioVellido",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
