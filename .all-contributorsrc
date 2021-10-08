@@ -14,6 +14,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "Celestial-bot",
+      "name": "Celestial-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56473316?v=4",
+      "profile": "https://github.com/Celestial-bot",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
