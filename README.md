@@ -1,6 +1,6 @@
 [![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/network/members)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/graphs/contributors)
@@ -46,6 +46,7 @@ Code is written in one of following language -
 
 ## Contributing
 Read <a href="Contributing.md">Contributing.md</a>
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -55,7 +56,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://rajat19.github.io"><img src="https://avatars3.githubusercontent.com/u/12013288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rajat Srivastava</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Documentation">📖</a></td>
     <td align="center"><a href="https://abhinavrai23.github.io/"><img src="https://avatars.githubusercontent.com/u/19865147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav Rai</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ank47197"><img src="https://avatars.githubusercontent.com/u/43782942?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ank47197</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=ank47197" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -65,3 +68,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
+Read <a href="Contributing.md">Contributing.md</a>
