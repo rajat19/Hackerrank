@@ -11,6 +11,7 @@ Gemstones|[Problem](https://www.hackerrank.com/challenges/gem-stones/problem)|ph
 Mars Exploration|[Problem](https://www.hackerrank.com/challenges/mars-exploration/problem)|cpp14|[Solution](./mars-exploration.cpp)
 Pangrams|[Problem](https://www.hackerrank.com/challenges/pangrams/problem)|java|[Solution](./Pangrams.java)
 Similar Strings|[Problem](https://www.hackerrank.com/challenges/similar-strings/problem)|cpp14|[Solution](./similar-strings.cpp)
+String Construction|[Problem](https://www.hackerrank.com/challenges/string-construction/problem)|java|[Solution](./string-construction.java)
 Super Reduced String|[Problem](https://www.hackerrank.com/challenges/reduced-string/problem)|cpp14|[Solution](./reduced-string.cpp)
 The Love-Letter Mystery|[Problem](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|cpp14|[Solution](./the-love-letter-mystery.cpp)
 Two Strings|[Problem](https://www.hackerrank.com/challenges/two-strings/problem)|cpp|[Solution](./two-strings.cpp)
