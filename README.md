@@ -41,9 +41,8 @@ Code is written in one of following language -
 3. **Python**
 4. **Java**
 5. **PHP**
-6. **Haskell**
-
-I will try to convert all code in all above languages so that any beginner can also get help in a particular language
+6. **Golang**
+7. **Haskell**
 
 ## Contributing
 Read <a href="Contributing.md">Contributing.md</a>
@@ -66,3 +65,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+=======
+Read <a href="Contributing.md">Contributing.md</a>
