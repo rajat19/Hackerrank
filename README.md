@@ -38,7 +38,8 @@ Code is written in one of following language -
 3. **Python**
 4. **Java**
 5. **PHP**
-6. **Haskell**
+6. **Golang**
+7. **Haskell**
 
 ## Contributing
 Read <a href="Contributing.md">Contributing.md</a>
