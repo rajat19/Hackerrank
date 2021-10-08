@@ -25,15 +25,24 @@
       ]
     }
     {
-          "login": "abhinavRai23",
-          "name": "Abhinav Rai",
-          "avatar_url": "https://avatars.githubusercontent.com/u/19865147?v=4",
-          "profile": "https://abhinavrai23.github.io/",
-          "contributions": [
-            "code",
-            "doc"
-          ]
-        }
+      "login": "abhinavRai23",
+      "name": "Abhinav Rai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19865147?v=4",
+      "profile": "https://abhinavrai23.github.io/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+    {
+      "login": "2207akash",
+      "name": "Akash Sen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53941291?v=4",
+      "profile": "https://github.com/2207akash",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "Hackerrank",
