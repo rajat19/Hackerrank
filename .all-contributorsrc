@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "abhinavRai23",
+      "name": "Abhinav Rai",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19865147?v=4",
+      "profile": "https://abhinavrai23.github.io/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Hackerrank",
+  "projectOwner": "rajat19",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
