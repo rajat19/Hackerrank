@@ -1,6 +1,6 @@
 [![Github Forks](https://img.shields.io/github/forks/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/network/members)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Github Stars](https://img.shields.io/github/stars/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/stargazers)
 [![Contributors](https://img.shields.io/github/contributors/rajat19/Hackerrank.svg?style=for-the-badge)](https://github.com/rajat19/Hackerrank/graphs/contributors)
@@ -56,12 +56,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://rajat19.github.io"><img src="https://avatars3.githubusercontent.com/u/12013288?v=4" width="100px;" alt=""/><br /><sub><b>Rajat Srivastava</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://rajat19.github.io"><img src="https://avatars3.githubusercontent.com/u/12013288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rajat Srivastava</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/2207akash"><img src="https://avatars.githubusercontent.com/u/53941291?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sen</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=2207akash" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
