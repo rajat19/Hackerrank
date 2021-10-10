@@ -59,5 +59,6 @@ The Hurdle Race|[Problem](https://www.hackerrank.com/challenges/the-hurdle-race/
 Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|java|[Solution](./utopian-tree.java)
 Viral Advertising|[Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)|python3|[Solution](./strange-advertising.py)
 Number Line Jumps|[Problem](https://www.hackerrank.com/challenges/kangaroo/problem)|cpp|[solution](./Number-Line-Jumps.cpp)
+Subarray Division|[Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|cpp|[solution](./Subarray-Division.cpp)
 
 
