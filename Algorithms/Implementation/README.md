@@ -60,5 +60,15 @@ Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/proble
 Viral Advertising|[Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)|python3|[Solution](./strange-advertising.py)
 Number Line Jumps|[Problem](https://www.hackerrank.com/challenges/kangaroo/problem)|cpp|[solution](./Number-Line-Jumps.cpp)
 Subarray Division|[Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|cpp|[solution](./Subarray-Division.cpp)
+Sales by Match|[Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)|cpp|[solution](./Sales-by-Match.cpp)
+Bill Division|[Problem](https://www.hackerrank.com/challenges/bon-appetit/problem)|cpp|[solution](./Bill-Division.cpp)
+Library Fine|[Problem](https://www.hackerrank.com/challenges/library-fine/problem)|cpp|[solution](./Library-Fine.cpp)
+Append and Delete|[Problem](https://www.hackerrank.com/challenges/append-and-delete/problem)|cpp|[solution](./Append-and-Delete.cpp)
+Repeated String|[Problem](https://www.hackerrank.com/challenges/repeated-string/problem)|cpp|[Solution](./Repeated-String.cpp)
+Cut the sticks|[Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|cpp|[Solution](./Cut-the-Sticks.cpp)
+
+
+
+
 
 
