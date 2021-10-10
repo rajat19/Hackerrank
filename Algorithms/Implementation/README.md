@@ -58,3 +58,6 @@ The Grid Search|[Problem](https://www.hackerrank.com/challenges/the-grid-search/
 The Hurdle Race|[Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|python3|[Solution](./the-hurdle-race.py)
 Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|java|[Solution](./utopian-tree.java)
 Viral Advertising|[Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)|python3|[Solution](./strange-advertising.py)
+Number Line Jumps|[Problem](https://www.hackerrank.com/challenges/kangaroo/problem)|cpp|[solution](./Number-Line-Jumps.cpp)
+
+
