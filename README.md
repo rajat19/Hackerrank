@@ -57,9 +57,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://rajat19.github.io"><img src="https://avatars3.githubusercontent.com/u/12013288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rajat Srivastava</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=rajat19" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://abhinavrai23.github.io/"><img src="https://avatars.githubusercontent.com/u/19865147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav Rai</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ank47197"><img src="https://avatars.githubusercontent.com/u/43782942?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ank47197</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=ank47197" title="Code">💻</a></td>
+    <td align="center"><a href="https://abhinavrai23.github.io/"><img src="https://avatars.githubusercontent.com/u/19865147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav Rai</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/2207akash"><img src="https://avatars.githubusercontent.com/u/53941291?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sen</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=2207akash" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/prajwal27"><img src="https://avatars.githubusercontent.com/u/31249460?v=4?s=100" width="100px;" alt=""/><br /><sub><b>prajwal27</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=prajwal27" title="Code">💻</a></td>
   </tr>
 </table>
 
