@@ -61,6 +61,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://abhinavrai23.github.io/"><img src="https://avatars.githubusercontent.com/u/19865147?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav Rai</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Code">💻</a> <a href="https://github.com/rajat19/Hackerrank/commits?author=abhinavRai23" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/2207akash"><img src="https://avatars.githubusercontent.com/u/53941291?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Akash Sen</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=2207akash" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/prajwal27"><img src="https://avatars.githubusercontent.com/u/31249460?v=4?s=100" width="100px;" alt=""/><br /><sub><b>prajwal27</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=prajwal27" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Celestial-bot"><img src="https://avatars.githubusercontent.com/u/56473316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Celestial-bot</b></sub></a><br /><a href="https://github.com/rajat19/Hackerrank/commits?author=Celestial-bot" title="Code">💻</a></td>
   </tr>
 </table>
 
