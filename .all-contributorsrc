@@ -23,7 +23,7 @@
       "contributions": [
         "code"
       ]
-    }
+    },
     {
       "login": "abhinavRai23",
       "name": "Abhinav Rai",
@@ -33,12 +33,30 @@
         "code",
         "doc"
       ]
-    }
+    },
     {
       "login": "2207akash",
       "name": "Akash Sen",
       "avatar_url": "https://avatars.githubusercontent.com/u/53941291?v=4",
       "profile": "https://github.com/2207akash",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "prajwal27",
+      "name": "prajwal27",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31249460?v=4",
+      "profile": "https://github.com/prajwal27",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Celestial-bot",
+      "name": "Celestial-bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56473316?v=4",
+      "profile": "https://github.com/Celestial-bot",
       "contributions": [
         "code"
       ]
