@@ -1,60 +1,60 @@
 ## [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
 
-Problem Name|Problem Link|Language|Solution Link
----|---|---|---
-Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|cpp|[Solution](./extra-long-factorials.cpp)
-ACM ICPC Team|[Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|cpp14|[Solution](./acm-icpc-team.cpp)
-Absolute Permutation|[Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem)|cpp14|[Solution](./absolute-permutation.cpp)
-Angry Professor|[Problem](https://www.hackerrank.com/challenges/angry-professor/problem)|java|[Solution](./Angry-Professor.java)
-Apple and Orange|[Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)|cpp14|[Solution](./apple-and-orange.cpp)
-Beautiful Days at the Movies|[Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)|cpp14|[Solution](./beautiful-days-at-the-movies.cpp)
-Beautiful Triplets|[Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|php|[Solution](./beautiful-triplets.php)
-Between Two Sets|[Problem](https://www.hackerrank.com/challenges/between-two-sets/problem)|cpp14|[Solution](./between-two-sets.cpp)
-Bigger is Greater|[Problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem)|php|[Solution](./bigger-is-greater.php)
-Birthday Chocolate|[Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|python3|[Solution](./the-birthday-bar.py)
-Bon Appétit|[Problem](https://www.hackerrank.com/challenges/bon-appetit/problem)|php|[Solution](./bon-appetit.php)
-Breaking the Records|[Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|php|[Solution](./breaking-best-and-worst-records.php)
-Cats and a Mouse|[Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)|python3|[Solution](./cats-and-a-mouse.py)
-Cavity Map|[Problem](https://www.hackerrank.com/challenges/cavity-map/problem)|php|[Solution](./cavity-map.php)
-Chocolate Feast |[Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem)|php|[Solution](./chocolate-feast.php)
-Circular Array Rotation|[Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|c|[Solution](./circular-array-rotation.c)
-Climbing the Leaderboard|[Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|cpp|[Solution](./climbing-the-leaderboard.cpp)
-Counting Valleys|[Problem](https://www.hackerrank.com/challenges/counting-valleys/problem)|python3|[Solution](./counting-valleys.py)
-Cut the sticks|[Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|php|[Solution](./cut-the-sticks.php)
-Day of the Programmer|[Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|python3|[Solution](./day-of-the-programmer.py)
-Designer PDF Viewer|[Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|cpp14|[Solution](./designer-pdf-viewer.cpp)
-Divisible Sum Pairs|[Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|c|[Solution](./divisible-sum-pairs.c)
-Drawing Book |[Problem](https://www.hackerrank.com/challenges/drawing-book/problem)|python3|[Solution](./drawing-book.py)
-Electronics Shop|[Problem](https://www.hackerrank.com/challenges/electronics-shop/problem)|python3|[Solution](./electronics-shop.py)
-Encryption|[Problem](https://www.hackerrank.com/challenges/encryption/problem)|java|[Solution](./encryption.java)
-Equalize the Array|[Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|php|[Solution](./equality-in-a-array.php)
-Equalize the Array|[Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|java|[Solution](./equalize-the-array.java)
-Extra Long Factorials|[Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|java|[Solution](./Extra-Long-Factorials.java)
-Find Digits|[Problem](https://www.hackerrank.com/challenges/find-digits/problem)|python|[Solution](./find-digits.py)
-Flatland Space Stations|[Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|cpp14|[Solution](./flatland-space-stations.cpp)
-Forming a Magic Square|[Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem)|python3|[Solution](./magic-square-forming.py)
-Grading Students|[Problem](https://www.hackerrank.com/challenges/grading/problem)|cpp|[Solution](./grading.cpp)
-Jumping on the Clouds: Revisited|[Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|php|[Solution](./jumping-on-the-clouds-revisited.php)
-Jumping on the Clouds|[Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|php|[Solution](./jumping-on-the-clouds.php)
-Kangaroo|[Problem](https://www.hackerrank.com/challenges/kangaroo/problem)|python3|[Solution](./kangaroo.py)
-Library Fine|[Problem](https://www.hackerrank.com/challenges/library-fine/problem)|php|[Solution](./library-fine.php)
-Library Fine|[Problem](https://www.hackerrank.com/challenges/library-fine/problem)|python3|[Solution](./library-fine.py)
-Lisa's Workbook|[Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem)|cpp|[Solution](./lisa-workbook.cpp)
-Manasa and Stones|[Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|php|[Solution](./manasa-and-stones.php)
-Migratory Birds|[Problem](https://www.hackerrank.com/challenges/migratory-birds/problem)|python3|[Solution](./migratory-birds.py)
-Minimum Distances|[Problem](https://www.hackerrank.com/challenges/minimum-distances/problem)|cpp14|[Solution](./minimum-distances.cpp)
-Non-Divisible Subset|[Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|php|[Solution](./non-divisible-subset.php)
-Picking Numbers|[Problem](https://www.hackerrank.com/challenges/picking-numbers/problem)|python3|[Solution](./picking-numbers.py)
-Queen's Attack II|[Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)|cpp|[Solution](./queens-attack-2.cpp)
-Repeated String|[Problem](https://www.hackerrank.com/challenges/repeated-string/problem)|php|[Solution](./repeated-string.php)
-Save the Prisoner!|[Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|c|[Solution](./save-the-prisoner.c)
-Sequence Equation|[Problem](https://www.hackerrank.com/challenges/permutation-equation/problem)|java8|[Solution](./Sequence-Equation.java)
-Service Lane|[Problem](https://www.hackerrank.com/challenges/service-lane/problem)|python|[Solution](./service-lane.py)
-Sherlock and Squares|[Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|java|[Solution](./sherlock-and-squares.java)
-Sock Merchant|[Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)|cpp14|[Solution](./sock-merchant.cpp)
-Strange Counter|[Problem](https://www.hackerrank.com/challenges/strange-code/problem)|php|[Solution](./strange-code.php)
-Taum and B'day|[Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)|cpp14|[Solution](./taum-and-bday.cpp)
-The Grid Search|[Problem](https://www.hackerrank.com/challenges/the-grid-search/problem)|cpp|[Solution](./the-grid-search.cpp)
-The Hurdle Race|[Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|python3|[Solution](./the-hurdle-race.py)
-Utopian Tree|[Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)|java|[Solution](./utopian-tree.java)
-Viral Advertising|[Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)|python3|[Solution](./strange-advertising.py)
+| Problem Name                     | Problem Link                                                                             | Language | Solution Link                                     |
+|----------------------------------|------------------------------------------------------------------------------------------|----------|---------------------------------------------------|
+| Extra Long Factorials            | [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | cpp      | [Solution](./extra-long-factorials.cpp)           |
+| ACM ICPC Team                    | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team/problem)                   | cpp14    | [Solution](./acm-icpc-team.cpp)                   |
+| Absolute Permutation             | [Problem](https://www.hackerrank.com/challenges/absolute-permutation/problem)            | cpp14    | [Solution](./absolute-permutation.cpp)            |
+| Angry Professor                  | [Problem](https://www.hackerrank.com/challenges/angry-professor/problem)                 | java     | [Solution](./angry-professor.java)                |
+| Apple and Orange                 | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem)                | cpp14    | [Solution](./apple-and-orange.cpp)                |
+| Beautiful Days at the Movies     | [Problem](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)    | cpp14    | [Solution](./beautiful-days-at-the-movies.cpp)    |
+| Beautiful Triplets               | [Problem](https://www.hackerrank.com/challenges/beautiful-triplets/problem)              | php      | [Solution](./beautiful-triplets.php)              |
+| Between Two Sets                 | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem)                | cpp14    | [Solution](./between-two-sets.cpp)                |
+| Bigger is Greater                | [Problem](https://www.hackerrank.com/challenges/bigger-is-greater/problem)               | php      | [Solution](./bigger-is-greater.php)               |
+| Birthday Chocolate               | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem)                | python3  | [Solution](./the-birthday-bar.py)                 |
+| Bon Appétit                      | [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem)                     | php      | [Solution](./bon-appetit.php)                     |
+| Breaking the Records             | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | php      | [Solution](./breaking-best-and-worst-records.php) |
+| Cats and a Mouse                 | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                | python3  | [Solution](./cats-and-a-mouse.py)                 |
+| Cavity Map                       | [Problem](https://www.hackerrank.com/challenges/cavity-map/problem)                      | php      | [Solution](./cavity-map.php)                      |
+| Chocolate Feast                  | [Problem](https://www.hackerrank.com/challenges/chocolate-feast/problem)                 | php      | [Solution](./chocolate-feast.php)                 |
+| Circular Array Rotation          | [Problem](https://www.hackerrank.com/challenges/circular-array-rotation/problem)         | c        | [Solution](./circular-array-rotation.c)           |
+| Climbing the Leaderboard         | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)        | cpp      | [Solution](./climbing-the-leaderboard.cpp)        |
+| Counting Valleys                 | [Problem](https://www.hackerrank.com/challenges/counting-valleys/problem)                | python3  | [Solution](./counting-valleys.py)                 |
+| Cut the sticks                   | [Problem](https://www.hackerrank.com/challenges/cut-the-sticks/problem)                  | php      | [Solution](./cut-the-sticks.php)                  |
+| Day of the Programmer            | [Problem](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)           | python3  | [Solution](./day-of-the-programmer.py)            |
+| Designer PDF Viewer              | [Problem](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)             | cpp14    | [Solution](./designer-pdf-viewer.cpp)             |
+| Divisible Sum Pairs              | [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)             | c        | [Solution](./divisible-sum-pairs.c)               |
+| Drawing Book                     | [Problem](https://www.hackerrank.com/challenges/drawing-book/problem)                    | python3  | [Solution](./drawing-book.py)                     |
+| Electronics Shop                 | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem)                | python3  | [Solution](./electronics-shop.py)                 |
+| Encryption                       | [Problem](https://www.hackerrank.com/challenges/encryption/problem)                      | java     | [Solution](./encryption.java)                     |
+| Equalize the Array               | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)             | php      | [Solution](./equality-in-a-array.php)             |
+| Equalize the Array               | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array/problem)             | java     | [Solution](./equalize-the-array.java)             |
+| Extra Long Factorials            | [Problem](https://www.hackerrank.com/challenges/extra-long-factorials/problem)           | java     | [Solution](./extra-long-factorials.java)          |
+| Find Digits                      | [Problem](https://www.hackerrank.com/challenges/find-digits/problem)                     | python   | [Solution](./find-digits.py)                      |
+| Flatland Space Stations          | [Problem](https://www.hackerrank.com/challenges/flatland-space-stations/problem)         | cpp14    | [Solution](./flatland-space-stations.cpp)         |
+| Forming a Magic Square           | [Problem](https://www.hackerrank.com/challenges/magic-square-forming/problem)            | python3  | [Solution](./magic-square-forming.py)             |
+| Grading Students                 | [Problem](https://www.hackerrank.com/challenges/grading/problem)                         | cpp      | [Solution](./grading.cpp)                         |
+| Jumping on the Clouds: Revisited | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | php      | [Solution](./jumping-on-the-clouds-revisited.php) |
+| Jumping on the Clouds            | [Problem](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)           | php      | [Solution](./jumping-on-the-clouds.php)           |
+| Kangaroo                         | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem)                        | python3  | [Solution](./kangaroo.py)                         |
+| Library Fine                     | [Problem](https://www.hackerrank.com/challenges/library-fine/problem)                    | php      | [Solution](./library-fine.php)                    |
+| Library Fine                     | [Problem](https://www.hackerrank.com/challenges/library-fine/problem)                    | python3  | [Solution](./library-fine.py)                     |
+| Lisa's Workbook                  | [Problem](https://www.hackerrank.com/challenges/lisa-workbook/problem)                   | cpp      | [Solution](./lisa-workbook.cpp)                   |
+| Manasa and Stones                | [Problem](https://www.hackerrank.com/challenges/manasa-and-stones/problem)               | php      | [Solution](./manasa-and-stones.php)               |
+| Migratory Birds                  | [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem)                 | python3  | [Solution](./migratory-birds.py)                  |
+| Minimum Distances                | [Problem](https://www.hackerrank.com/challenges/minimum-distances/problem)               | cpp14    | [Solution](./minimum-distances.cpp)               |
+| Non-Divisible Subset             | [Problem](https://www.hackerrank.com/challenges/non-divisible-subset/problem)            | php      | [Solution](./non-divisible-subset.php)            |
+| Picking Numbers                  | [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem)                 | python3  | [Solution](./picking-numbers.py)                  |
+| Queen's Attack II                | [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)                 | cpp      | [Solution](./queens-attack-2.cpp)                 |
+| Repeated String                  | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem)                 | php      | [Solution](./repeated-string.php)                 |
+| Save the Prisoner!               | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem)               | c        | [Solution](./save-the-prisoner.c)                 |
+| Sequence Equation                | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem)            | java8    | [Solution](./Sequence-Equation.java)              |
+| Service Lane                     | [Problem](https://www.hackerrank.com/challenges/service-lane/problem)                    | python   | [Solution](./service-lane.py)                     |
+| Sherlock and Squares             | [Problem](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)            | java     | [Solution](./sherlock-and-squares.java)           |
+| Sock Merchant                    | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)                   | cpp14    | [Solution](./sock-merchant.cpp)                   |
+| Strange Counter                  | [Problem](https://www.hackerrank.com/challenges/strange-code/problem)                    | php      | [Solution](./strange-code.php)                    |
+| Taum and B'day                   | [Problem](https://www.hackerrank.com/challenges/taum-and-bday/problem)                   | cpp14    | [Solution](./taum-and-bday.cpp)                   |
+| The Grid Search                  | [Problem](https://www.hackerrank.com/challenges/the-grid-search/problem)                 | cpp      | [Solution](./the-grid-search.cpp)                 |
+| The Hurdle Race                  | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                 | python3  | [Solution](./the-hurdle-race.py)                  |
+| Utopian Tree                     | [Problem](https://www.hackerrank.com/challenges/utopian-tree/problem)                    | java     | [Solution](./utopian-tree.java)                   |
+| Viral Advertising                | [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)             | python3  | [Solution](./strange-advertising.py)              |
