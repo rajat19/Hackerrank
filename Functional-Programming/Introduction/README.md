@@ -1,21 +1,21 @@
 ## [Introduction](https://www.hackerrank.com/domains/fp/intro)
 
-Problem Name|Problem Link|Language|Solution Link
----|---|---|---
-Solve Me First FP|[Problem](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)|haskell|[Solution](./fp-solve-me-first.hs)
-Area Under Curves and Volume of Revolving a Curve|[Problem](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem)|haskell|[Solution](./area-under-curves-and-volume-of-revolving-a-curv.hs)
-Array Of N Elements|[Problem](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)|haskell|[Solution](./fp-array-of-n-elements.hs)
-Evaluating e^x|[Problem](https://www.hackerrank.com/challenges/eval-ex/problem)|haskell|[Solution](./eval-ex.hs)
-Filter Array|[Problem](https://www.hackerrank.com/challenges/fp-filter-array/problem)|haskell|[Solution](./fp-filter-array.hs)
-Filter Positions in a List|[Problem](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)|haskell|[Solution](./fp-filter-positions-in-a-list.hs)
-Hello World N Times|[Problem](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)|haskell|[Solution](./fp-hello-world-n-times.hs)
-Hello World|[Problem](https://www.hackerrank.com/challenges/fp-hello-world/problem)|scala|[Solution](./fp-hello-world.scala)
-Lambda Calculus - Evaluating Expressions #3|[Problem](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression/problem)|text|[Solution](./lambda-calculus-evaluate-the-expression.text)
-Lambda Calculus - Reductions #1|[Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-1/problem)|text|[Solution](./lambda-calculus-reductions-1.text)
-Lambda Calculus - Reductions #2|[Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-2/problem)|text|[Solution](./lambda-calculus-reductions-2.text)
-Lambda Calculus - Reductions #3|[Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-3/problem)|text|[Solution](./lambda-calculus-reductions-3.text)
-List Length|[Problem](https://www.hackerrank.com/challenges/fp-list-length/problem)|haskell|[Solution](./fp-list-length.hs)
-List Replication|[Problem](https://www.hackerrank.com/challenges/fp-list-replication/problem)|haskell|[Solution](./fp-list-replication.hs)
-Reverse a List|[Problem](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)|haskell|[Solution](./fp-reverse-a-list.hs)
-Sum of Odd Elements|[Problem](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)|haskell|[Solution](./fp-sum-of-odd-elements.hs)
-Update List|[Problem](https://www.hackerrank.com/challenges/fp-update-list/problem)|haskell|[Solution](./fp-update-list.hs)
+| Problem Name                                      | Problem Link                                                                                              | Language | Solution Link                                                     |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------|
+| Solve Me First FP                                 | [Problem](https://www.hackerrank.com/challenges/fp-solve-me-first/problem)                                | haskell  | [Solution](./fp-solve-me-first.hs)                                |
+| Area Under Curves and Volume of Revolving a Curve | [Problem](https://www.hackerrank.com/challenges/area-under-curves-and-volume-of-revolving-a-curv/problem) | haskell  | [Solution](./area-under-curves-and-volume-of-revolving-a-curv.hs) |
+| Array Of N Elements                               | [Problem](https://www.hackerrank.com/challenges/fp-array-of-n-elements/problem)                           | haskell  | [Solution](./fp-array-of-n-elements.hs)                           |
+| Evaluating e^x                                    | [Problem](https://www.hackerrank.com/challenges/eval-ex/problem)                                          | haskell  | [Solution](./eval-ex.hs)                                          |
+| Filter Array                                      | [Problem](https://www.hackerrank.com/challenges/fp-filter-array/problem)                                  | haskell  | [Solution](./fp-filter-array.hs)                                  |
+| Filter Positions in a List                        | [Problem](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)                    | haskell  | [Solution](./fp-filter-positions-in-a-list.hs)                    |
+| Hello World N Times                               | [Problem](https://www.hackerrank.com/challenges/fp-hello-world-n-times/problem)                           | haskell  | [Solution](./fp-hello-world-n-times.hs)                           |
+| Hello World                                       | [Problem](https://www.hackerrank.com/challenges/fp-hello-world/problem)                                   | scala    | [Solution](./fp-hello-world.scala)                                |
+| Lambda Calculus - Evaluating Expressions #3       | [Problem](https://www.hackerrank.com/challenges/lambda-calculus-evaluate-the-expression/problem)          | text     | [Solution](./lambda-calculus-evaluate-the-expression.text)        |
+| Lambda Calculus - Reductions #1                   | [Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-1/problem)                     | text     | [Solution](./lambda-calculus-reductions-1.text)                   |
+| Lambda Calculus - Reductions #2                   | [Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-2/problem)                     | text     | [Solution](./lambda-calculus-reductions-2.text)                   |
+| Lambda Calculus - Reductions #3                   | [Problem](https://www.hackerrank.com/challenges/lambda-calculus-reductions-3/problem)                     | text     | [Solution](./lambda-calculus-reductions-3.text)                   |
+| List Length                                       | [Problem](https://www.hackerrank.com/challenges/fp-list-length/problem)                                   | haskell  | [Solution](./fp-list-length.hs)                                   |
+| List Replication                                  | [Problem](https://www.hackerrank.com/challenges/fp-list-replication/problem)                              | haskell  | [Solution](./fp-list-replication.hs)                              |
+| Reverse a List                                    | [Problem](https://www.hackerrank.com/challenges/fp-reverse-a-list/problem)                                | haskell  | [Solution](./fp-reverse-a-list.hs)                                |
+| Sum of Odd Elements                               | [Problem](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements/problem)                           | haskell  | [Solution](./fp-sum-of-odd-elements.hs)                           |
+| Update List                                       | [Problem](https://www.hackerrank.com/challenges/fp-update-list/problem)                                   | haskell  | [Solution](./fp-update-list.hs)                                   |
