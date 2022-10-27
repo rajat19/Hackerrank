@@ -47,6 +47,7 @@
 | Picking Numbers                  | [Problem](https://www.hackerrank.com/challenges/picking-numbers/problem)                 | python3  | [Solution](./picking-numbers.py)                  |
 | Queen's Attack II                | [Problem](https://www.hackerrank.com/challenges/queens-attack-2/problem)                 | cpp      | [Solution](./queens-attack-2.cpp)                 |
 | Repeated String                  | [Problem](https://www.hackerrank.com/challenges/repeated-string/problem)                 | php      | [Solution](./repeated-string.php)                 |
+| Sales by March                   | [Problem](https://www.hackerrank.com/challenges/sock-merchant/problem)                   | c        | [Solution](./sales-by-march.c)                 |
 | Save the Prisoner!               | [Problem](https://www.hackerrank.com/challenges/save-the-prisoner/problem)               | c        | [Solution](./save-the-prisoner.c)                 |
 | Sequence Equation                | [Problem](https://www.hackerrank.com/challenges/permutation-equation/problem)            | java8    | [Solution](./Sequence-Equation.java)              |
 | Service Lane                     | [Problem](https://www.hackerrank.com/challenges/service-lane/problem)                    | python   | [Solution](./service-lane.py)                     |
