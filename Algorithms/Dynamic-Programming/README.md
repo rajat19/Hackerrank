@@ -7,3 +7,6 @@
 | The Coin Change Problem        | [Problem](https://www.hackerrank.com/challenges/coin-change/problem)                                                 | cpp      | [Solution](./coin-change.cpp)                                                 |
 | The Longest Common Subsequence | [Problem](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) | cpp14    | [Solution](./dynamic-programming-classics-the-longest-common-subsequence.cpp) |
 | The Maximum Subarray           | [Problem](https://www.hackerrank.com/challenges/maxsubarray/problem)                                                 | cpp      | [Solution](./maxsubarray.cpp)                                                 |
+| Equal                          | [Problem](https://www.hackerrank.com/challenges/equal/problem)                                                       | cpp14    | [Solution](./equal.cpp)                                                     
+| Construct The Array            | [Problem](https://www.hackerrank.com/challenges/construct-the-array/problem)                                         | cpp14    | [Solution](./construct_the_array.cpp)
+
