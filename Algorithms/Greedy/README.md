@@ -18,3 +18,4 @@
 | Minimum Absolute Difference in an Array | [Problem](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | cpp14    | [Solution](./minimum-absolute-difference-in-an-array.cpp) |
 | Priyanka and Toys                       | [Problem](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)                       | cpp14    | [Solution](./priyanka-and-toys.cpp)                       |
 | Sherlock and The Beast                  | [Problem](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)                  | c        | [Solution](./sherlock-and-the-beast.c)                    |
+| Goodland Electricity                    | [Problem](https://www.hackerrank.com/challenges/pylons/problem)                                  | Python3  | [Solution](./goodland_electricity.py)                     | 
